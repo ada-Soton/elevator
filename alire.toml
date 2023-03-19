@@ -1,0 +1,11 @@
+name = "elevator"
+description = "A Simple Elevator System"
+version = "1.0.0"
+
+authors = ["Thai Son Hoang"]
+maintainers = ["Thai Son Hoang <T.S.Hoang@soton.ac.uk>"]
+maintainers-logins = ["tshoang"]
+
+executables = ["main"]
+[[depends-on]]
+gnatprove = "^12.1.1"
