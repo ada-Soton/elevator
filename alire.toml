@@ -5,6 +5,9 @@ version = "1.0.0"
 authors = ["Thai Son Hoang"]
 maintainers = ["Thai Son Hoang <T.S.Hoang@soton.ac.uk>"]
 maintainers-logins = ["tshoang"]
+licenses = "CC-BY-SA-4.0"
+tags = ["elevator", "teaching"]
+website = "https://github.com/ada-Soton/elevator"
 
 executables = ["main"]
 [[depends-on]]
